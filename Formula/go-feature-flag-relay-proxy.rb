@@ -3,7 +3,7 @@ class GoFeatureFlagRelayProxy < Formula
   homepage "https://gofeatureflag.org"
   url "https://github.com/thomaspoignant/go-feature-flag.git",
       tag:      "v1.8.1",
-      revision: "916857f01428cde7e3e3c07ee94f63f3e7a69c06"
+      revision: "e711108ea9b7144a1c50f622cccf12f5e46246cb"
   license "MIT"
   head "https://github.com/thomaspoignant/go-feature-flag.git", branch: "main"
 
